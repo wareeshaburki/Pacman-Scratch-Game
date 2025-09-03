@@ -15,3 +15,6 @@
 ## Author
 [Wareesha Burki]
 
+Play the game here:
+https://wareeshaburki.github.io/Pacman-Scratch-Game/
+
